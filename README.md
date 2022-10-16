@@ -1,7 +1,6 @@
 # 💫 About Me:
 💯 Passionate<br>❤️ From Karachi, Pakistan.<br>🌱 I’m currently learning React.JS.<br>💬 Ask me about HTML, CSS, JavaScript.<br>⛳ My Aim Is To Become A MERN STack Developer.<br>💻 Learning From SMIT.<br>󠀢✨ “It’s hard enough to find an error in your code when you’re looking for it; <br>      it’s even harder when you’ve assumed your code is error-free.”– Steve McConnell<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehmanatcha&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehmanatcha" /> </p>
 
 
 ## 🌐 Socials:
