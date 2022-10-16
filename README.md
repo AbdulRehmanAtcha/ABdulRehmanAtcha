@@ -1,7 +1,7 @@
 # 💫 About Me:
 💯 Passionate<br>❤️ From Karachi, Pakistan.<br>🌱 I’m currently learning React.JS.<br>💬 Ask me about HTML, CSS, JavaScript.<br>⛳ My Aim Is To Become A MERN STack Developer.<br>💻 Learning From SMIT.<br>󠀢✨ “It’s hard enough to find an error in your code when you’re looking for it; <br>      it’s even harder when you’ve assumed your code is error-free.”– Steve McConnell<br>
 
-<p><img align="right" width="450" height="450" src=""/></p>
+<p><img align="right" width="400" height="400" src=""/></p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arehman9091) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abdulrehmanzaid/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdul-rehman-1b8a69230/) 
