@@ -1,5 +1,5 @@
 # 💫 About Me:
-💯 Passionate<br>❤️ From Karachi, Pakistan.<br>🌱 I’m currently learning React.JS.<br>💬 Ask me about HTML, CSS, JavaScript.<br>⛳ My Aim Is To Become A MERN STack Developer.<br>💻 Learning From SMIT.<br>󠀢✨ “It’s hard enough to find an error in your code when you’re looking for it; <br>      it’s even harder when you’ve assumed your code is error-free.”– Steve McConnell<br>![myGif](https://user-images.githubusercontent.com/92687624/196024614-c68323d5-f028-4919-9cb6-fa92aa5f0c20.gif)
+💯 Passionate<br>❤️ From Karachi, Pakistan.<br>🌱 I’m currently learning React.JS.<br>💬 Ask me about HTML, CSS, JavaScript.<br>⛳ My Aim Is To Become A MERN STack Developer.<br>💻 Learning From SMIT.<br>󠀢✨ “It’s hard enough to find an error in your code when you’re looking for it; <br>&nbsp; &nbsp; &nbsp;&nbsp;it’s even harder when you’ve assumed your code is error-free.”– Steve McConnell<br>![myGif](https://user-images.githubusercontent.com/92687624/196024614-c68323d5-f028-4919-9cb6-fa92aa5f0c20.gif)
 
 
 ## 🌐 Socials:
